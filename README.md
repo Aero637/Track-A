@@ -71,11 +71,6 @@ python eda_analysis.py
 python -m streamlit run app.py
 
 This will be live at: http://localhost:8501
-The following two main screendhot of steps attached:
-python eda_analysis.py
-<img width="1293" height="457" alt="image" src="https://github.com/user-attachments/assets/a1b20e4e-b841-4b67-a56d-d367bbba8c59" />
-python -m streamlit run app.py
-<img width="1194" height="463" alt="image" src="https://github.com/user-attachments/assets/c08d324d-6265-4a5e-ab57-9f4ad1cdf3ac" />
 
 The result will look like:
 <img width="1906" height="985" alt="image" src="https://github.com/user-attachments/assets/d9c21057-f6ac-44ad-a9f0-13e3c66f70f3" />
